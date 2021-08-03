@@ -1,0 +1,23 @@
+.navdetails {
+    /* border: 2px solid firebrick; */
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    background-color: #26347c;
+    display: flex;
+    padding: 20px;
+    margin: auto;
+    padding: auto;
+}
+
+.navdetails div {
+    flex-grow: 1;
+    font-size: 20px;
+    color: #f7f8fc;
+    cursor: pointer;
+}
+
+.navdetails div:hover {
+    font-size: 25px;
+}

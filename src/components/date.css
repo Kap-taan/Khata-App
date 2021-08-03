@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@600&display=swap');
+
+
+
+.expense__dates {
+    /* border: 2px solid purple; */
+    margin: 20px;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    /* background-color: #252525; */
+    color: #fff;
+    font-family: 'Baloo Chettan 2', cursive;
+
+}
+
+.expense__month {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.expense__date {
+    font-size: 28px;
+    
+}
+
+.expense__year {
+    margin-right: 10px;
+}

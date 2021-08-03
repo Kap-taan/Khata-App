@@ -1,0 +1,45 @@
+
+
+.indi a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #212e73;
+}
+
+.de {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #212e73;
+    margin: 20px;
+}
+
+.de h2 {
+    margin-bottom: 20px;
+}
+
+
+
+.de button {
+    background-color: #212e73;
+    color: #fff;
+    border: 0;
+    font-size: 20px;
+    width: 120px;
+    cursor: pointer;
+    
+}
+
+.de.specialC {
+    background-color: red;
+    
+}
+
+button.specialC {
+    background-color: red;
+}
+
+.de h3.specialC {
+    transform: translateX(130px);
+}

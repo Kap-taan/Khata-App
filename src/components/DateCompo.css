@@ -1,0 +1,21 @@
+.date__compo {
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 8%;
+    left: 15%;
+    color: #babdca;
+}
+
+.date__parta {
+    display: flex;
+    padding: 10px 10px;
+}
+
+.date__parta h3 {
+    margin-left: 12px;
+}
+
+.date__partb h4 {
+    margin-left: 12px;
+    padding-left: 10px;
+}

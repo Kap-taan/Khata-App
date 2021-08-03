@@ -1,0 +1,22 @@
+.recent {
+    background-image:
+     radial-gradient(ellipse farthest-corner at 80vw 15vh ,
+     #222f76 5%, #222f76 95%
+    /* border: 2px solid red; */
+  );
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    border-radius: 8px;
+    box-shadow: 1px 4px 31px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 4px 31px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 4px 31px 0px rgba(0,0,0,0.75);
+    color: #fff;
+}
+
+.recent__data {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

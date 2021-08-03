@@ -1,0 +1,13 @@
+.packet {
+    /* border: 2px solid yellowgreen; */
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.packet__h3 {
+    color: #99a1c5;
+}
+
+.packet__h4 {   
+    color: #5593aa;
+}

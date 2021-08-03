@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.navbar {
+    
+    height: 100vh;
+    width: 13%;
+    
+    background-color: #212e73;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.navbar__img {
+    color: #fff;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 80px;
+    padding-top: 25px;
+}
+
+
+
+.navbar__option {
+    color: #838aaf;
+    font-size: 13px;
+    padding: 12px;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 12px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.navbar__option:hover {
+    font-size: 17px;
+}
+
+.navbar__option h4 {
+    margin-top: 12px;
+}
+
+.navbar__option.special {
+    background-color: #1f2d6f;
+    color: #fff;
+}
