@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Khata-App/static/css/main.d142f2dc.chunk.css",
+    "main.js": "/Khata-App/static/js/main.f3639503.chunk.js",
+    "main.js.map": "/Khata-App/static/js/main.f3639503.chunk.js.map",
+    "runtime-main.js": "/Khata-App/static/js/runtime-main.eb9482ba.js",
+    "runtime-main.js.map": "/Khata-App/static/js/runtime-main.eb9482ba.js.map",
+    "static/js/2.ec856fda.chunk.js": "/Khata-App/static/js/2.ec856fda.chunk.js",
+    "static/js/2.ec856fda.chunk.js.map": "/Khata-App/static/js/2.ec856fda.chunk.js.map",
+    "index.html": "/Khata-App/index.html",
+    "static/css/main.d142f2dc.chunk.css.map": "/Khata-App/static/css/main.d142f2dc.chunk.css.map",
+    "static/js/2.ec856fda.chunk.js.LICENSE.txt": "/Khata-App/static/js/2.ec856fda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb9482ba.js",
+    "static/js/2.ec856fda.chunk.js",
+    "static/css/main.d142f2dc.chunk.css",
+    "static/js/main.f3639503.chunk.js"
+  ]
+}
